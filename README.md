@@ -13,7 +13,7 @@ visualize, and extract insights from pricing, ratings, and hardware specificatio
   - Brand performance by average rating (bar chart)
   - Price-rating correlation analysis (strip plot)
   - RAM vs. screen size relationship (strip plot)
-  - - **📋 Tabular Summary** – Expandable data table with grouped averages
+  -  **📋 Tabular Summary** – Expandable data table with grouped averages
 
 ## 📁 Repository Structure
 | File | Description |
@@ -34,22 +34,22 @@ _Then open the URL shown in your terminal (usually http://localhost:8501) in you
 
 ## 🛠️ Methodology
 Data preprocessing performed in Analysis.ipynb:
-🗑️ Removal of irrelevant features
-🔄 Handling of missing values via row elimination
-🔢 Type conversion for price, screen size, and RAM
-📝 Column renaming for clarity
+- 🗑️ Removal of irrelevant features
+- 🔄 Handling of missing values via row elimination
+- 🔢 Type conversion for price, screen size, and RAM
+- 📝 Column renaming for clarity
 
 ## 🧰 Technology Stack
-⚡ Streamlit – Dashboard framework
-📊 Plotly – Interactive charting library
-🐼 Pandas – Data manipulation and aggregation
+- ⚡ Streamlit – Dashboard framework
+- 📊 Plotly – Interactive charting library
+- 🐼 Pandas – Data manipulation and aggregation
 
 ## 🤝 Contributing
 Contributions are welcome! Please:
-Fork the repository
-Create a feature branch
-Make your changes
-Submit a pull request
+1. Fork the repository
+2.  Create a feature branch
+3.  Make your changes
+4.   Submit a pull request
 
 ## 📄 License
 This project is for educational and portfolio purposes.
